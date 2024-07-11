@@ -85,6 +85,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ****************** Thought Note:  *****************
+
 Frontend:- 
 
 This is a simple To-Do list application built with React. Let's break down the 
