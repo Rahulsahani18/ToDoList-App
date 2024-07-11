@@ -2,7 +2,7 @@
 # Install all frontend dependencies, node module and Start 
 
 `npm install`
-`cd .\frontend\my-react-app\`
+`cd .\frontend\`
 `npm start`
 
 # Install all backend dependencies, node module and Start 
