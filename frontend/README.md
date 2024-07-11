@@ -2,13 +2,17 @@
 # Install all frontend dependencies, node module and Start 
 
 `npm install`
+
 `cd .\frontend\`
+
 `npm start`
 
 # Install all backend dependencies, node module and Start 
 
 `npm install`
+
 `cd .\backend\`
+
 `node .\index.js`
 
 # Getting Started with Create React App
