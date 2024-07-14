@@ -1,17 +1,19 @@
 
 # Install all frontend dependencies, node module and Start 
 
-`npm install`
-
 `cd .\frontend\`
+
+`npm install`
 
 `npm start`
 
 # Install all backend dependencies, node module and Start 
 
-`npm install`
+`cd..`
 
 `cd .\backend\`
+
+`npm install`
 
 `node .\index.js`
 
