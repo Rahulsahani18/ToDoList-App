@@ -1,5 +1,5 @@
 
-# Install all frontend dependencies, node module and Start 
+# Install frontend dependencies, node module and Start 
 
 `cd .\frontend\`
 
@@ -7,7 +7,7 @@
 
 `npm start`
 
-# Install all backend dependencies, node module and Start 
+# Install backend dependencies, node module and Start 
 
 `cd..`
 
